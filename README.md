@@ -1,10 +1,10 @@
-Pong
+Pong Game
 ====
 
-EA Code Wars Hackaton 2014
+The winning game at the side quest challenge during **EA Code Wars Hackathon** in 2014. Made in 4 hours by the **Infinite Loop** team.
+
+### Technologies
 
 - JAVA
 - Eclipse / Android Developer Tools
 - libGDX
-
-Beta version, made ​​in 4 hours. Infinite Loop Team! :D
